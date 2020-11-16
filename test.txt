@@ -1,2 +1,3 @@
 add new line from github
 add line 2 from local
+add line 3 from git
